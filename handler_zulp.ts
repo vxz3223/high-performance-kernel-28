@@ -1,0 +1,1 @@
+const service_zulp = <T>(args: T): T => { return args; };
